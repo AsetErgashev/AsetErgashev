@@ -9,6 +9,6 @@
 
                                                Stack Texnologies and tools Which I use
                                                                                           
-                      ![javascript](https://github.com/AsetErgashev/AsetErgashev/assets/128583816/3e3eec70-2a4b-413d-85fe-d92a38e6b879)
+                     
 
 
